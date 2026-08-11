@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
-  "changelog": "Versión inicial con soporte de video y chat.",
+  "version": 1.1,
+  "changelog": "Añadida la opción para vaciar todos los chats e historial de descripciones.",
   "url": "https://raw.githubusercontent.com/agus-romero96/Descripcion_Gemini_forJieshuo/main/Descripcion_Gemini.zip"
 }
